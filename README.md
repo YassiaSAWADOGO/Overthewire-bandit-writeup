@@ -1,4 +1,4 @@
-# 🎯 OverTheWire – Bandit Wargame
+# 🎯OverTheWire – Bandit Wargame
 
 Ce dépôt documente ma progression complète sur **[Bandit](https://overthewire.org/wargames/bandit/)**, le wargame d'introduction d'OverTheWire consacré aux bases de la sécurité système sous Linux : permissions, manipulation de fichiers, réseau, scripting, et contournement de shells restreints.
 

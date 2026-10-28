@@ -43,9 +43,7 @@ Port : 2220
 
 ---
 
-## 📂 Scripts
-
-Le dossier [`scripts/`](./scripts) contient les scripts réellement écrits pour résoudre certains niveaux :
+## Pour ce qui est des fichiers sripts:
 
 | Fichier | Niveau | Description |
 |---|---|---|
